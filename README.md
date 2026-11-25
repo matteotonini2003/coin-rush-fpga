@@ -24,7 +24,7 @@ The project was developed for the *Digital Systems Design* course in the Master'
 
 [Start screen](screenshots/start.png) · [Pause screen](screenshots/pause.png)
 
-*These screenshots are from the VGA RTL simulation. Tests on the physical FPGA are documented separately in the reports.*
+
 
 ### Technical reports
 
